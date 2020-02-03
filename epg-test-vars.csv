@@ -1,0 +1,4 @@
+tenant,ap,epg,encap_id,pod_id,interface,leaf,interface_mode,interface_type,state
+Mayank_Tenant,app1,web_epg,161,1, eth1/9,101,trunk,switch_port,present
+Mayank_Tenant,app1,db_epg,162,1, eth1/10,101,trunk,switch_port,present
+Mayank_Tenant,app1,web_epg,161,1, eth1/10,101,trunk,switch_port,present
