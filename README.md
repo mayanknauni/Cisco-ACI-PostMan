@@ -3,7 +3,7 @@ Postman collection for Cisco ACI
 
 Import the collection and environment to your postman client.
 
-Following high level tasks are included in the scripts
+Following high level tasks are included in the collections:- 
 
 1. Basic APIC Configuration
 2. APIC Network Configuration
