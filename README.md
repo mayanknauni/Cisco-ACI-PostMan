@@ -27,7 +27,7 @@ Following high level tasks are included in the collections:-
 2. APIC Network Configuration
 3. APIC VMM Configuration
 4. Access Interface Policies 
-5. Daily Operations Commands ( Read Only Commands to helo you with operations, using GET) 
+5. Daily Operations Commands ( Read Only Commands to help you with operations, using GET) 
 6. Runner Tasks ( Multiple Interface Static Path Binding) 
 
 A sample CSV file has been uploaded for the runner tasks. 
