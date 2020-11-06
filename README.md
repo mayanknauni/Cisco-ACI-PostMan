@@ -19,7 +19,7 @@ https://community.cisco.com/t5/data-center-documents/aci-automation-part-2-aci-w
 
 ## How to use it? ##
 
-Import the collection and environment to your postman client.
+Import the collection and environment to your postman client. A sample environment (ACI Lab.postman_environment.json) is included for you reference where you can define the url for APIC and the username and password. 
 
 Following high level tasks are included in the collections:- 
 
@@ -27,7 +27,7 @@ Following high level tasks are included in the collections:-
 2. APIC Network Configuration
 3. APIC VMM Configuration
 4. Access Interface Policies 
-5. Daily Operations Commands
+5. Daily Operations Commands ( Read Only Commands to helo you with operations, using GET) 
 6. Runner Tasks ( Multiple Interface Static Path Binding) 
 
 A sample CSV file has been uploaded for the runner tasks. 
