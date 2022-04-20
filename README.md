@@ -13,7 +13,7 @@ https://community.cisco.com/t5/data-center-documents/aci-automation-part-1-aci-w
 
 https://community.cisco.com/t5/data-center-documents/aci-automation-part-2-aci-with-postman-configuring-single-epg/ta-p/3318255
 
-https://community.cisco.com/t5/data-center-documents/aci-automation-part-2-aci-with-postman-configuring-single-epg/ta-p/3318255
+https://community.cisco.com/t5/data-center-and-cloud-documents/aci-automation-part-3-aci-with-postman-on-configuring-multiple/ta-p/3320170
 
 ## Postman collection for Cisco ACI ###
 
